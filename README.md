@@ -10,7 +10,7 @@ Make sure to have composer installed on your pc
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/hassanroki/todo-list.git
    cd todo-list
 
 2. Install dependencies:
